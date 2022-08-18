@@ -10,7 +10,7 @@
 }
 
 #partOne{
-    background-image: url('./assets/images/headerImage.jpg');
+    background-image: url('./../assets/images/headerImage.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
@@ -18,14 +18,14 @@
 
 
 #partFour{
-    background-image: url('./assets/images/plain.jpg');
+    background-image: url('./../assets/images/plain.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
 }
 
 #partFive{
-    background-image: url('./assets/images/footerImage.jpg');
+    background-image: url('./../assets/images/footerImage.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
