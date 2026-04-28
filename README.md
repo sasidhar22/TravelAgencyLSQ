@@ -1,4 +1,4 @@
-# ✈️ LSQ Travel Agency
+# ✈️ LSQ Travel Agency - Take-home assignment for internship at LeadSquared
 
 A responsive travel agency landing page built with HTML, CSS, and JavaScript — showcasing a **3N/4D Ladakh holiday package**.
 
